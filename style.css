@@ -63,7 +63,7 @@ section nav ul li a::after{
     content: '';
     width: 0;
     height: 2px;
-    background: #fac031;
+    background: #58b8f5;
     display: block;
     transition: 0.2s linear;
 }
@@ -73,7 +73,7 @@ section nav ul li a:hover::after{
 }
 
 section nav ul li a:hover{
-    color: #fac031;
+    color: #58b8f5;
 }
 
 section nav .icon i{
@@ -85,7 +85,7 @@ section nav .icon i{
 }
 
 section nav .icon i:hover{
-    color: #fac031;
+    color: #58b8f5;
 }
 
 section .main{
@@ -105,8 +105,8 @@ section .main .men_text h1{
 
 section .main .men_text h1 span{
     margin-left: 15px;
-    color: #fac031;
-    font-family: mv boli;
+    color: #58b8f5;
+    font-family: cursive;
     line-height: 22px;
     font-size: 70px;
 }
@@ -127,7 +127,7 @@ section p{
 }
 
 section .main_btn{
-    background:#64d3f8;
+    background:#58b8f5;
     position: relative;
     left: 123px;
     bottom: 30px;
@@ -174,7 +174,7 @@ section .main_btn:hover i{
 }
 
 .about .about_main .about_text h1 span{
-    color: #fac031;
+    color: #58b8f5;
     margin-right: 15px;
     font-family:'proximaNova';
 }
@@ -198,7 +198,7 @@ section .main_btn:hover i{
 }
 
 .about .about_btn{
-    background: #fac031;
+    background: #58b8f5;
     padding: 12px 25px;
     text-decoration: none;
     color: #fff;
@@ -228,15 +228,15 @@ section .main_btn:hover i{
 
 .gallary h1 span{
     margin-left: 15px;
-    color: #fac031;
-    font-family: mv boli;
+    color: #58b8f5;
+    font-family: cursive;
 }
 
 .gallary h1 span::after{
     content: '';
     width: 100%;
     height: 2px;
-    background: #fac031;
+    background: #58b8f5;
     display: block;
     position: relative;
     bottom: 15px;
@@ -270,7 +270,7 @@ section .main_btn:hover i{
     position: absolute;
     font-size: 35px;
     margin-bottom: 130px;
-    color: #fac031;
+    color: #58b8f5;
     font-family: polo;
     z-index: 5;
     opacity: 0;
@@ -301,7 +301,7 @@ section .main_btn:hover i{
     position: absolute;
     margin-top: 180px;
     color: #000;
-    background: #fac031;
+    background: #58b8f5;
     padding: 7px 25px;
     text-decoration: none;
     opacity: 0;
@@ -334,15 +334,15 @@ section .main_btn:hover i{
 
 .review h1 span{
     margin-left: 15px;
-    color: #fac031;
-    font-family: mv boli;
+    color: #58b8f5;
+    font-family: cursive;
 }
 
 .review h1 span::after{
     content: '';
     width: 100%;
     height: 2px;
-    background: #fac031;
+    background: #58b8f5;
     position: relative;
     bottom: 15px;
     display: block;
@@ -398,7 +398,7 @@ section .main_btn:hover i{
 }
 
 .review .review_box .review_card .review_text .review_icon{
-    color: #fac031;
+    color: #58b8f5;
     transition: 0.3s;
 }
 
@@ -451,16 +451,16 @@ section .main_btn:hover i{
 }
 
 .order h1 span{
-    color: #fac031;
+    color: #58b8f5;
     margin-right: 15px;
-    font-family: mv boli;
+    font-family: cursive;
 }
 
 .order h1 span::after{
     content: '';
     width: 100%;
     height: 2px;
-    background: #fac031;
+    background: #58b8f5;
     display: block;
     position: relative;
     bottom: 15px;
@@ -501,12 +501,12 @@ section .main_btn:hover i{
 }
 
 .order .order_main form .input input:focus{
-    border: 2px solid #fac031;
+    border: 2px solid #58b8f5;
 }
 
 .order .order_main form .order_btn{
     padding: 10px 0;
-    background: #fac031;
+    background: #58b8f5;
     color: white;
     width: 40%;
     text-align: center;
@@ -536,7 +536,7 @@ section .main_btn:hover i{
 }
 
 .team h1 span{
-    color: #fac031;
+    color: #58b8f5;
     margin-left: 15px;
     font-family: mv boli;
 }
@@ -545,7 +545,7 @@ section .main_btn:hover i{
     content: '';
     width: 100%;
     height: 2px;
-    background: #fac031;
+    background: #58b8f5;
     display: block;
     position: relative;
     bottom: 15px;
@@ -608,7 +608,7 @@ section .main_btn:hover i{
 }
 
 .team .team_box .profile .info .name{
-    color: #fac031;
+    color: #58b8f5;
     margin-bottom: 15px;
 }
 
@@ -625,7 +625,7 @@ section .main_btn:hover i{
 }
 
 .team .team_box .profile .info .team_icon i:hover{
-    color: #fac031;
+    color: #58b8f5;
 }
 
 
@@ -664,7 +664,7 @@ footer .footer_main .footer_tag i{
 }
 
 footer .footer_main .footer_tag i:hover{
-    color: #fac031;
+    color: #58b8f5;
 }
 
 footer .end{
@@ -675,7 +675,7 @@ footer .end{
 }
 
 footer .end span{
-    color: #fac031;
+    color: #58b8f5;
     margin-left: 10px;
 }
 
@@ -689,6 +689,6 @@ footer .end span{
 }
 
 ::-webkit-scrollbar-thumb{
-    background: #fac031;
+    background: #58b8f5;
     border-radius: 15px;
 }

@@ -13,7 +13,13 @@ section{
     width: 100%;
     height: 10vh;
 }
-
+section nav h1 {
+    font-size: 57px;
+    font-family: cursive;
+    color: #64d3f8;
+    text-align: left;
+    left: 5px;
+}
 section nav{
     display: flex;
     justify-content: space-around;
@@ -64,7 +70,7 @@ section nav ul li a:hover::after{
 }
 
 section nav ul li a:hover{
-    color: #fac031;
+    color: #58b8f4;
 }
 
 section nav .icon i{
@@ -76,7 +82,7 @@ section nav .icon i{
 }
 
 section nav .icon i:hover{
-    color: #fac031;
+    color: #58b8f4;
 }
 
 /*Menu*/
@@ -92,13 +98,13 @@ section nav .icon i:hover{
     align-items: center;
     justify-content: center;
     margin-bottom: 30px;
-    font-family: sans-serif;
+    font-family: cursive;
 }
 
 .menu h1 span{
     color: #64d3f8;
     margin-left: 15px;
-    font-family:  url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+    font-family:cursive;
 }
 
 .menu h1 span::after{
@@ -178,7 +184,7 @@ section nav .icon i:hover{
 }
 
 .menu .menu_box .menu_card .small_card i:hover{
-    color: #fac031;
+    color: #58b8f4;
 }
 
 .menu .menu_box .menu_card .menu_info h2{
@@ -186,7 +192,7 @@ section nav .icon i:hover{
     text-align: center;
     margin: 10px auto 10px auto;
     font-size: 25px;
-    color: #fac031;
+    color: #58b8f4;
 }
 
 .menu .menu_box .menu_card .menu_info p{
@@ -201,7 +207,7 @@ section nav .icon i:hover{
 }
 
 .menu .menu_box .menu_card .menu_info .menu_icon{
-    color: #fac031;
+    color: #58b8f4;
     text-align: center;
     margin: 10px 0 10px 0;
 }
